@@ -25,6 +25,7 @@ Para este ejemplo la linea de metro sería
 
 `Estacion(a)color(r)<->Estacion(b)color(nc)<->Estacion(c)color(g)`
 
+Si se quiere modificar la red hay que modificar el [Archivo](src/resources/routes-file.txt). Actualmente tiene cargada la red que venía en la prueba
 
 ## Ejecución del programa
 
