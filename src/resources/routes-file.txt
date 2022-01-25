@@ -1,0 +1,1 @@
+a:nc_b|b:nc_c,a|c:nc_d,g,b|d:nc_e,c|e:nc_f,d|f:nc_i,e|g:g_h,c|h:r_i,g|i:g_f,h

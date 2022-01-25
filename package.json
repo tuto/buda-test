@@ -1,0 +1,19 @@
+{
+  "name": "buda",
+  "version": "1.0.0",
+  "description": "test camino mas corto",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha --timeout=3000"
+  },
+  "author": "jlueiza@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.3.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.0",
+    "nyc": "^15.1.0",
+    "test-console": "^2.0.0"
+  }
+}
